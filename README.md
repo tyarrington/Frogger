@@ -1,0 +1,2 @@
+# Frogger
+This program is a simple recreation of the usual Frogger game. By clicking on either side of the road, the frog will move up and down accordingly, and when it reaches the other side the crossings increases by one and the frog immediately returns to the other side of the road. Cars in random colors are generated and move across the screen, and if the frog is hit the life point decreases by one.
